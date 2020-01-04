@@ -1,11 +1,19 @@
 #logo {
 	display: inline-block;
-	height: 100%;
+	width: 100%;
 }
 
 #main {
-	width: 50vw;
-	height: 50vh;
-	margin: auto auto;
-	margin-top: 35vh;
+	width: 75%;
+	margin: 0 auto;
+	margin-top: 5em;
+}
+
+#copy {
+	background-color: #212;
+	margin: 0 auto;
+}
+
+#copy p {
+	text-align: center;
 }
